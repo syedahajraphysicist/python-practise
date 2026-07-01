@@ -4,7 +4,7 @@ Welcome to my Python learning repository! I am a first-year BS Physics student a
 
 ## Goals
 - Learn Python fundamentals
-- Practice problem-solving
+- Practice problem solving
 - Build small physics projects
 - Explore data analysis and scientific programming
 
